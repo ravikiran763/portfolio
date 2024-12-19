@@ -1,6 +1,6 @@
 ---
 title: "Senior Consultant"
-description: "Deloitte Consulting LLP | Multiple Locations"
+description: "Deloitte Consulting LLP | Multiple Locations (USA, UK, India)"
 dateString: August 2013 - October 2020
 draft: false
 tags: ["Java", "Spring", "Fast4J", "Camunda BPMN", "AWS", "Microservices"]
